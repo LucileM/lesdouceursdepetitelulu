@@ -1,0 +1,42 @@
+# Site
+name: "Les douceurs de petite Lulu"
+description: "Recettes de cuisine sucrée et un peu salé."
+meta_description: "Recettes de cuisine sucrée et un peu salé.."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /lesdouceursdepetitelulu
+google_analytics: ''
+disqus: 'lesdouceursdepetitelulu'
+mailchimp-list: ''
+
+# Authors
+authors:
+  sal:
+    name: Lucile
+    display_name: Petite Lulu
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: madoulaud.lucile@gmail.com
+    web: 
+    twitter: 
+    description: "Ingénieure logiciels passionnée de pâtisserie."
+ 
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: blue
