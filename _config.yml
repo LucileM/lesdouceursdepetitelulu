@@ -4,7 +4,7 @@ description: "Recettes de cuisine sucrée et un peu salé."
 meta_description: "Recettes de cuisine sucrée et un peu salé.."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /lesdouceursdepetitelulu
+baseurl: 'lesdourceursdepetitelulu.com'
 google_analytics: ''
 disqus: 'lesdouceursdepetitelulu'
 mailchimp-list: ''
