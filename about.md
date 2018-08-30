@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Les douceurs de petite lulu
-comments: true
+title: About
+permalink: /about/
 ---
 
-Ce site a été fait avec Jekyll et inspiré du thème Mediumish template for Jekyll.
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mediumish-jekyll-template.png){: .shadow}
+Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
 
-### Test
+You can find the source code for the Jekyll new theme at:
+[sleek](https://github.com/janczizikow/sleek)
 
-- test
-    - test
-
+You can find the source code for Jekyll at
+[jekyll](https://github.com/jekyll/jekyll)
